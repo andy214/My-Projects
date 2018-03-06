@@ -1,0 +1,92 @@
+Ideas
+Version 1.0
+---------------------------------------------------------------------
+Animals and products:
+Chicken - Egg [x]
+Sheep - Wool [x]
+Cow - Milk [x]
+Pig - Bacon [x]
+Tur  key - Turkey's Egg [x]
+Goat - Goat's Milk [x]
+Done but you must add after function with time product []
+
+Shop:
+buying animals [x]
+selling animals [x]
+selling products [x]
+buying seeds [] V 1.1
+price products is like in exchange []v 1.1
+buying explores Barn, Magazine and Plants place [x] [x] []
+
+Wallet:
+Have information about your gold [x]
+
+Magazine:
+have limit of products [x]
+have information about products []
+
+Barn:
+have limit of animals [x]
+have information about animals []
+
+Menu:
+Start new game []
+Load game []                   |_ to/ from file for now maybe later i think something else
+Saves and they deletes []      |
+---------------------------------------------------------------
+
+Version 1.1
+---------------------------------------------------------------
+Plants:
+Potatoes []
+Tomatoes []
+Wheals []
+Corns []
+have 30% chance to get seeds []
+
+Plants places:
+In this place you can have growing plants []
+have information about plants []
+
+----------------------------------------------------------------
+
+Version 1.2
+----------------------------------------------------------------
+Events:
+Have little chance to event:
+Greatfully Day - Turkey is more expensive to buy and sell []
+Easter - Chicken and Eggs is more expensive []
+and more
+----------------------------------------------------------------
+
+Version 1.3
+----------------------------------------------------------------
+Disasters:
+Have little chance to disaster:
+UFO - you lost random number of cows []
+Flood - you lost every all plants in plants place []
+Fox - you lost random number of chickens []
+Wolf - you lost random number of sheeps []
+Turkey's season - you lost random number of turkeys []
+swine flu - you lost random number of pigs []
+and more
+----------------------------------------------------------------
+
+Version 1.4
+----------------------------------------------------------------
+Crafting:
+you can craft various things for example for 2 milk and 4 eggs = 1 biscuits []
+----------------------------------------------------------------
+
+Version 1.5
+------------------------------------------------------------------------------
+Day []
+Night []
+Seasons []
+Weather []
+Every get some bonuses to grow or doing products
+
+Start and Rules:
+In start you have 1 chicken [x]
+You must have more than 1 animals [x]
+
